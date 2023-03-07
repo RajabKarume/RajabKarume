@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://lh3.googleusercontent.com/pmTCuydmAKAL5BPVC196ZKJSaFlepZwKiqkeWm7m1qaVo83yjt_Qx-dV4wx3UDAC5oY_7EVZYi9J4IiVm6h25x1U9jpA-beIju3DO9sjwTW899EwdLIHeogq9OxxH0Q3VaqxUptlftdBVvVAuVIdGHzJGwSEttOfMrL_AAUQ_tW1AHh9d1bgnEDAmtcc16Ks4XLiISYilaWpR_np_zmjuxFItFiT2qlH0txjXthW3cXuLoQ-oWpu8tmgySH-f4RDVRSblGHsLLXxCyDrcZFuOGxZ2vvg7vo48tto5gc7U3A9WYkm8ymlUqOS3i6EH8MdVFkxN6HMw-dVfP6iypEu9j_YcuUCfxjHX0E5Qe9JwzvuoK7ZQJKm3nyXp7vc72ett8A7kVciVl6Uo11kyZjG1wYW_kgtsvqjEaZ9jqeMDwsWLVuHCECR6kxj0NnqY8V_OwDmo71wzg9KskKVC_muoP5j-m2wE9vrJyTa4lh5Q82adWXEdiEolGS2Xdz02Y_o1OFZxTXAT6WwBfl1_MIqYfuBH0BfH9WDRBhyAwXbxOylEa6APS_KOyDukej_1VCUhulWWgPs9gmT7S2OAbJiF7tbYAUbSV7_9_18mih3A_URa3LhGnPpnr2k1gio9y3eAPCr0qwftD5rdwrQCDprA6HxAeeaUqPgPiH_A5NH8UpdR-e3utHF0_cRJQUd7FW8KmIftgAHx5-EdkpE85L1GWUpaxTKjPNtIDPZpZdgXqk70uN4-3vSEzyjpS5oWQurbz13vU0gRUeH7yUKpRmummef0eSneUXYQZ98uXr-rupF6nSEgJHvB3_5NRnQUqXrKlXgHCWSPaR9FSjJjwzYRcWyqG_CLg70w-coxBM4XqdwOj42gHCHU9eYn_yOIfsnRLmNa7dS5_USkZ5PTMA1tVVtXTaFw25zXuBRMTX_d_Hdthrkhg=w1366-h342-no?authuser=0" alt="Rajab Karume's Banner" />
+<img src="https://i.ibb.co/zbNPDFK/Black-Minimal-Business-Personal-Profile-Linkedin-Banner-1.png" alt="Black-Minimal-Business-Personal-Profile-Linkedin-Banner-1" border="0">
 
 <h1 align="center">Hi 👋, I'm Rajab Karume 😎</h1>
 
