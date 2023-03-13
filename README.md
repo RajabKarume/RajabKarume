@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Rajab Karume 😎</h1>
 
-<h3 align="center">Just graduated from Moringa, looking forward to kickstart my Software Engineering journey! I'm currently working with React frontend and Ruby on rails backend.</h3>
+<h3 align="center">Just graduated from Moringa School, looking forward to kickstart my Software Engineering journey! I'm currently working with React frontend and Ruby on rails backend.</h3>
 
 <br/>
 
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 <!-- 📄 Know about my experiences [through my CV](about/resume.md) -->
 
 
-⚡ Fun fact? **I'm a very good swimmer and i coach during my free time**
+⚡ Fun fact? **I'm a very good swimmer and I coach during my free time**
 
 ### Interested ?
 
