@@ -63,3 +63,7 @@ Here are some ideas to get you started:
 <!-- </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/></a>  -->
 </p>
 
+###  🔥My Stats:
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RajabKarume)](https://git.io/streak-stats)
+
