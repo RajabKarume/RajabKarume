@@ -38,12 +38,9 @@ Here are some ideas to get you started:
 
 ### Get to know me
 
-💬 I'm an expert on **React and Ruby on rails**
-
-🔭 I’m currently working on <a href="https://github.com/italanta/elewa-group.git" arget="_blank" rel="noreferrer">elewa group website</a> and <a href="https://github.com/italanta/elewa" arget="_blank" rel="noreferrer">Elewa Conversational Manager</a>
+💬 I'm good in **React and Ruby on rails**
 
 🌱 I’m currently learning Angular and TypeScript
-
 
 
 <!-- 📄 Know about my experiences [through my CV](about/resume.md) -->
